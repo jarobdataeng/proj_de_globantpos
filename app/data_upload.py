@@ -2,7 +2,6 @@
 import os
 import json
 import logging
-import glob
 from datetime import datetime
 import pandas as pd
 import psycopg2 # type: ignore
